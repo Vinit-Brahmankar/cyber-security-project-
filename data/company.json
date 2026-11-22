@@ -1,0 +1,19 @@
+{
+  "name": "Lantern Row Books",
+  "tagline": "An online bookstore for new, used and hard-to-find books.",
+  "staff": 15,
+  "summary": "Lantern Row Books is a fictional 15-person online bookstore. It sells new and second-hand books through a hosted web shop and ships them from a small rented warehouse. Most of the team works on company laptops, some from home, and everyone shares one email and file system.",
+  "data": [
+    "Customer names, email addresses and shipping addresses",
+    "Order history and wish lists for about 40,000 customer accounts",
+    "Staff payroll and contact details",
+    "Supplier contracts and wholesale pricing"
+  ],
+  "systems": [
+    "A hosted web shop (the storefront and customer accounts)",
+    "A payment processor, so card numbers never touch our own systems",
+    "Shared cloud email, calendar and file storage",
+    "Accounting software used by the two-person finance team",
+    "12 staff laptops and one warehouse PC that prints shipping labels"
+  ]
+}

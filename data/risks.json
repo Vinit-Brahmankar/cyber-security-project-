@@ -1,0 +1,9 @@
+[
+  { "threat": "Phishing email tricks an employee", "likelihood": "high", "impact": "high" },
+  { "threat": "Weak passwords get guessed", "likelihood": "medium", "impact": "high" },
+  { "threat": "Laptop with customer data is lost", "likelihood": "medium", "impact": "high" },
+  { "threat": "Malware from a downloaded file", "likelihood": "medium", "impact": "medium" },
+  { "threat": "Ex-employee still has account access", "likelihood": "low", "impact": "high" },
+  { "threat": "Web shop admin account is taken over", "likelihood": "low", "impact": "high" },
+  { "threat": "Warehouse PC is left logged in and unattended", "likelihood": "high", "impact": "low" }
+]

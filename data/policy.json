@@ -1,0 +1,52 @@
+[
+  {
+    "id": "scope-and-objectives",
+    "title": "Scope and objectives",
+    "body": "This policy covers every person who works for Lantern Row Books, including part-time warehouse staff and contractors, and every system that holds company or customer data: the web shop, shared email and files, accounting software, staff laptops and the warehouse PC.\n\nIts goals are simple:\n- Keep customer details and order history private.\n- Keep the shop online and orders shipping.\n- Make sure that when something goes wrong, everyone knows what to do and who to tell."
+  },
+  {
+    "id": "access-control",
+    "title": "Access control",
+    "body": "People get access only to the systems their job needs. Warehouse staff can see orders and addresses for shipping, but not payroll or supplier pricing. Only the owner and the operations lead hold admin rights on the web shop.\n\n- Every person has their own account. Shared logins are not allowed, including on the warehouse PC.\n- New access is requested by a manager and approved by the operations lead.\n- When someone leaves, all of their accounts are disabled within 24 hours, and the operations lead checks the list on their last day.\n- Access lists are reviewed every three months."
+  },
+  {
+    "id": "data-protection",
+    "title": "Data protection",
+    "body": "Customer data stays inside the web shop and our shared cloud storage. It is never copied to USB drives, personal email or personal cloud accounts.\n\n- Card payments go through our payment processor. We never see or store full card numbers.\n- Laptops use full-disk encryption and lock after five minutes idle.\n- Customer and order data is backed up weekly, and one restore is tested every quarter.\n- Exports of customer lists are deleted once the task they were made for is done."
+  },
+  {
+    "id": "incident-response",
+    "title": "Incident response",
+    "body": "An incident is anything that might expose customer data or stop the shop working: a lost laptop, a suspicious login, a clicked phishing link, or a strange change to the web shop.\n\n- Report it right away to the operations lead in the team chat or by phone. Reporting early is never a mistake.\n- Don't try to investigate or clean up on your own. Disconnect an affected laptop from Wi-Fi and leave it switched on.\n- The operations lead decides the next steps, changes affected passwords and keeps a written log of what happened.\n- If customer data may have been exposed, the owner decides whether customers or authorities must be told, within the time the law requires."
+  },
+  {
+    "id": "password-management",
+    "title": "Password management",
+    "body": "Passwords protect every account we have, so they follow the same rules everywhere.\n\n- At least 12 characters. A short sentence of unrelated words works well.\n- A different password for every account, kept in the company password manager.\n- Two-factor authentication on email, the web shop admin, accounting and the password manager itself.\n- Never share a password in chat or email. If someone needs access, they get their own account."
+  },
+  {
+    "id": "employee-training",
+    "title": "Employee training",
+    "body": "Most attacks on a small business start with a person, not a machine. Everyone completes a short security session when they join and a refresher every six months.\n\nTraining covers how to spot phishing emails, how to handle customer data, what to do with a lost device and how to report an incident. The phishing quiz on this portal is part of the refresher."
+  },
+  {
+    "id": "monitoring-and-audit",
+    "title": "Monitoring and audit",
+    "body": "The operations lead checks the web shop and email admin logs every week for unusual logins, new admin users or bulk exports of customer data.\n\nOnce a quarter the team runs the security checklist on this portal and records the score. Any item that fails gets an owner and a date to fix it. These checks are self-reported and are not a professional audit."
+  },
+  {
+    "id": "review-and-updates",
+    "title": "Review and updates",
+    "body": "This policy is reviewed once a year by the owner and the operations lead, and sooner after any incident or any big change, such as a new system or new kind of customer data.\n\nEach change is dated, summarised in a short changelog, and announced to the whole team."
+  },
+  {
+    "id": "documentation-and-communication",
+    "title": "Documentation and communication",
+    "body": "The current version of this policy lives on this portal, where everyone can read it. New starters read it in their first week and confirm they have done so.\n\nQuestions about the policy go to the operations lead. Changes are shared in the team meeting and in the team chat, so nobody has to find them on their own."
+  },
+  {
+    "id": "compliance",
+    "title": "Compliance",
+    "body": "We follow the data protection law that applies where our customers live, and the security rules of our payment processor. Collecting only the customer data we need, and deleting it when we no longer do, is part of that.\n\nBreaking this policy on purpose, or hiding an incident, can lead to disciplinary action. Making an honest mistake and reporting it quickly never will."
+  }
+]

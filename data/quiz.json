@@ -1,0 +1,37 @@
+[
+  {
+    "from": "IT Support <it-support@example.com>",
+    "subject": "Your password expires today",
+    "body": "Your mailbox password expires in 2 hours. Click this link and sign in to keep your account active, or your email will be suspended.",
+    "answer": "phishing",
+    "explanation": "Urgency plus a link asking for credentials is a common phishing pattern. One way to check: contact IT through a channel you already know, not the link."
+  },
+  {
+    "from": "Priya, Operations <priya@lanternrow.example.com>",
+    "subject": "Team meeting moved to Thursday",
+    "body": "Hi all, this week's team meeting moves to Thursday at 10:00 in the warehouse office. Same agenda as before, nothing to prepare.",
+    "answer": "legitimate",
+    "explanation": "It comes from a known colleague's usual address, asks for nothing, contains no link or attachment and matches something you'd expect. Not every email is a threat."
+  },
+  {
+    "from": "Accounts Payable <invoices@example.org>",
+    "subject": "Overdue invoice #20931 - payment needed today",
+    "body": "Our records show an unpaid invoice for your book order. Please open the attached file, enable editing, and pay today to avoid a late fee.",
+    "answer": "phishing",
+    "explanation": "An unexpected invoice from a sender you don't work with, an attachment that asks you to 'enable editing' and pressure to act today are classic malware tricks. Check with the finance team before opening anything."
+  },
+  {
+    "from": "Daniel (Owner) <daniel.owner.ceo@example.com>",
+    "subject": "Quick favour, are you at your desk?",
+    "body": "I'm in a meeting and can't talk. I need you to buy five gift cards for a supplier and send me the codes. I'll pay you back this afternoon.",
+    "answer": "phishing",
+    "explanation": "This is a classic impersonation scam: a boss's name on an outside address, secrecy, urgency and gift cards. Call the person on a number you already have before doing anything."
+  },
+  {
+    "from": "Web shop notifications <no-reply@shop.lanternrow.example.com>",
+    "subject": "New order received: 3 items",
+    "body": "A new order has been placed. Sign in to the web shop admin as you normally do to view and pack it. This message contains no links.",
+    "answer": "legitimate",
+    "explanation": "This matches the shop's usual notification, comes from the shop's own address and tells you to sign in the way you normally do, not through a link."
+  }
+]

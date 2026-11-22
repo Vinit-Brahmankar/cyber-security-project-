@@ -1,0 +1,15 @@
+[
+  { "item": "All accounts use passwords of 12+ characters" },
+  { "item": "Two-factor authentication is on for email and admin accounts" },
+  { "item": "Everyone stores passwords in the company password manager" },
+  { "item": "Operating systems and apps auto-update" },
+  { "item": "Every laptop has full-disk encryption turned on" },
+  { "item": "Laptops lock after five minutes idle" },
+  { "item": "Customer data is backed up weekly" },
+  { "item": "A backup restore was tested this quarter" },
+  { "item": "Access is removed within 24 hours when someone leaves" },
+  { "item": "Only two people have admin rights on the web shop" },
+  { "item": "Nobody shares a login, including on the warehouse PC" },
+  { "item": "Admin logs were checked this week for unusual logins" },
+  { "item": "Everyone finished security training in the last six months" }
+]
