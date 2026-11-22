@@ -1,0 +1,62 @@
+[
+  {
+    "phase": "Setup and company",
+    "week": 1,
+    "status": "done",
+    "goal": "Agree what we are building and get a shared codebase running.",
+    "tasks": [
+      { "task": "Choose the fictional company and write its one-paragraph profile", "owner": "Both" },
+      { "task": "Confirm the deadline, the rubric and whether a written report is needed", "owner": "Both" },
+      { "task": "Create the Next.js app and push it to the shared private repo", "owner": "Person A" },
+      { "task": "Clone the repo and run the app locally", "owner": "Person B" }
+    ]
+  },
+  {
+    "phase": "Content",
+    "week": 2,
+    "status": "done",
+    "goal": "Write every word the site needs before building pages around it.",
+    "tasks": [
+      { "task": "Write the ten policy sections in policy.json", "owner": "Person A" },
+      { "task": "List the threats and their ratings in risks.json", "owner": "Person A" },
+      { "task": "Write the checklist items in checklist.json", "owner": "Person B" },
+      { "task": "Write the example emails and explanations in quiz.json", "owner": "Person B" }
+    ]
+  },
+  {
+    "phase": "Skeleton and design",
+    "week": 3,
+    "status": "done",
+    "goal": "Settle the look of the site on one finished page before building the rest.",
+    "tasks": [
+      { "task": "Build the home page and the navigation bar", "owner": "Both" },
+      { "task": "Finish the policy page as the design sample", "owner": "Person A" },
+      { "task": "Approve the design together before building further", "owner": "Both" }
+    ]
+  },
+  {
+    "phase": "Build the tools",
+    "week": 4,
+    "status": "done",
+    "goal": "Turn the risk, training and monitoring parts of the policy into working pages.",
+    "tasks": [
+      { "task": "Build the risk assessment tool and risk register", "owner": "Person A" },
+      { "task": "Build the security checklist", "owner": "Person B" },
+      { "task": "Build the phishing quiz", "owner": "Person B" },
+      { "task": "Merge work often so neither of us falls behind", "owner": "Both" }
+    ]
+  },
+  {
+    "phase": "Review and launch",
+    "week": 5,
+    "status": "in progress",
+    "goal": "Check everything against the acceptance checks, fix what fails and publish the site.",
+    "tasks": [
+      { "task": "Review the code and test every page with Codex", "owner": "Both" },
+      { "task": "Fix what the review finds", "owner": "Both" },
+      { "task": "Build this project plan page", "owner": "Both" },
+      { "task": "Deploy the site on a static host", "owner": "Person B" },
+      { "task": "Walk through the whole app together so either of us can answer questions", "owner": "Both" }
+    ]
+  }
+]
